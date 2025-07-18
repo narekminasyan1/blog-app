@@ -13,4 +13,4 @@ npm install && npm run dev
 NEXT_PUBLIC_API_PAPAVER_API="http://localhost:8000/api"
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/narekminasyan1/blog-app
